@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.506073">
+    <testcase classname="Book Tickets With User Data" name="Detials Page" time="15.506073">
+        <system-out>
+            <![CDATA[Given User Can Launch The Browser And Book Tickets..........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
